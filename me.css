@@ -1,0 +1,183 @@
+body {
+  text-align: center;
+  background-color: rgb(214, 209, 218);
+  font-family: inherit;
+  display: table-cell;
+  vertical-align: middle;
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+  height: 100%;
+}
+
+.display-4 {
+  margin-bottom: 50px;
+}
+.About {
+  color: rgb(18, 9, 24);
+}
+
+.Main_Info {
+  color: rgba(13, 7, 19, 0.426);
+  font-size: 25px;
+}
+
+#smallbox {
+  background-color: rgba(255, 215, 222, 0.863);
+  text-align: center;
+  border: rgb(216, 112, 112);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.box {
+  display: flex;
+  width: 73vw;
+  justify-content: center;
+  justify-items: center;
+  text-justify: center;
+  margin-left: 29px;
+}
+
+.center {
+  background-color: transparent;
+}
+
+.wholepage {
+  background-color: pink;
+  background-image: url("/Users/maryam/Desktop/Development/Foundations/MyPortfolio/Dayflow - Park Life.png");
+}
+
+.maryam {
+  border-radius: 150px;
+  block-size: 150px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.body {
+  background-image: url("/Users/maryam/Desktop/Development/Foundations/MyPortfolio/Dayflow - Park Life.png");
+  background-color: pink;
+  text-align: center;
+  border: none;
+}
+
+.card {
+  justify-content: center;
+  text-align: center;
+  justify-items: center;
+  margin-bottom: 10px;
+  border: none;
+  /* margin-left: 50%;
+    margin-right: 50%; */
+}
+
+.container {
+  align-content: center;
+  text-align: center;
+}
+
+.card-header {
+  background-color: rgb(58, 35, 38);
+}
+
+#btn {
+  /* justify-content: center; */
+  padding: 10px;
+  box-shadow: none;
+  width: 100%;
+  border-radius: 0px;
+  /* background-color: tomato; */
+  border-color: transparent;
+  /* border-top: transparent; */
+}
+#btn:hover {
+  /* background-color: teal; */
+}
+#button {
+  /* background-color: tomato; */
+  /* border-top: transparent; */
+}
+
+.card-body {
+  background-color: rgb(255, 215, 222);
+  border-style: none;
+  border-color: transparent;
+}
+
+#age {
+  background-color: white;
+}
+#education {
+  background-color: white;
+}
+#Number {
+  background-color: white;
+}
+#Occupation {
+  background-color: white;
+}
+#Email {
+  background-color: white;
+}
+#Experience {
+  background-color: white;
+}
+.twitter {
+  background-color: transparent;
+  border-color: transparent;
+  border-style: none;
+  size: 30px;
+  cursor: pointer;
+  outline-style: none;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+  box-shadow: 0px 3px 10px;
+}
+
+.fa-instagram {
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  box-shadow: 0px 3px 10px;
+  color: white;
+}
+
+.fa {
+  padding: 10px;
+  width: 36px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 100%;
+}
+
+/* .mypage {
+    text-align: center;
+  } */
