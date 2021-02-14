@@ -116,7 +116,7 @@ html {
   background-color: darkcyan;
   padding: 10px;
   box-shadow: none;
-
+  border-radius: 0px;
   border-color: transparent;
   width: 100%;
 }
