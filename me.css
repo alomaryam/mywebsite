@@ -16,6 +16,9 @@ html {
 .display-4 {
   margin-bottom: 50px;
 }
+#lead {
+  font-size: 20px;
+}
 .About {
   color: rgb(18, 9, 24);
 }
@@ -70,7 +73,7 @@ html {
 
 .maryam {
   border-radius: 150px;
-  block-size: 150px;
+  block-size: 170px;
   margin-top: 15px;
   margin-bottom: 15px;
 }
