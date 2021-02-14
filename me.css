@@ -25,7 +25,19 @@ html {
   font-size: 25px;
 }
 
-#smallbox {
+#smallboxone {
+  background-color: rgba(255, 215, 222, 0.863);
+  text-align: center;
+  border: rgb(216, 112, 112);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* width: 100%; */
+}
+
+#smalboxtwo {
   background-color: rgba(255, 215, 222, 0.863);
   text-align: center;
   border: rgb(216, 112, 112);
@@ -36,7 +48,6 @@ html {
   align-items: center;
   width: 100%;
 }
-
 .box {
   display: flex;
   width: 73vw;
@@ -102,6 +113,11 @@ html {
   /* background-color: teal; */
 }
 #button {
+  background-color: darkcyan;
+  padding: 10px;
+  box-shadow: none;
+  border-radius: 0px;
+  border-color: transparent;
   /* background-color: tomato; */
   /* border-top: transparent; */
 }
