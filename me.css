@@ -34,6 +34,7 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 100%;
 }
 
 #smallboxtwo {
@@ -117,8 +118,7 @@ html {
   box-shadow: none;
   border-radius: 0px;
   border-color: transparent;
-  /* background-color: tomato; */
-  /* border-top: transparent; */
+  width: auto;
 }
 
 .card-body {
