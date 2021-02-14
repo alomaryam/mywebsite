@@ -52,7 +52,7 @@ html {
 
 .wholepage {
   background-color: pink;
-  background-image: url("/Users/maryam/Desktop/Development/Foundations/MyPortfolio/Dayflow - Park Life.png");
+  background-image: url(".Dayflow - Park Life.png");
 }
 
 .maryam {
@@ -63,7 +63,7 @@ html {
 }
 
 .body {
-  background-image: url("/Users/maryam/Desktop/Development/Foundations/MyPortfolio/Dayflow - Park Life.png");
+  background-image: url(".Dayflow - Park Life.png");
   background-color: pink;
   text-align: center;
   border: none;
