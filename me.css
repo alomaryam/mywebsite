@@ -118,7 +118,7 @@ html {
   box-shadow: none;
   border-radius: 0px;
   border-color: transparent;
-  width: auto;
+  width: 100%;
 }
 
 .card-body {
