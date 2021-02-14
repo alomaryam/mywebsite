@@ -109,9 +109,7 @@ html {
   border-color: transparent;
   /* border-top: transparent; */
 }
-#btn:hover {
-  /* background-color: teal; */
-}
+
 #button {
   background-color: darkcyan;
   padding: 10px;
